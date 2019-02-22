@@ -1,1 +1,1 @@
-Testing git connection.
+This is my moose package.
