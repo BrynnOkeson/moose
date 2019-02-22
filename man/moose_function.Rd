@@ -4,14 +4,14 @@
 \alias{moose_function}
 \title{A moose function}
 \usage{
-moose_function(sigma.sq, phi.sq, phi)
+moose_function(sigma.sq, tau.sq, phi)
 }
 \arguments{
 \item{sigma.sq}{specify the variance}
 
-\item{phi}{specify the range}
-
 \item{tau.sq}{specify the measurement error}
+
+\item{phi}{specify the range}
 }
 \description{
 This function allows you to simulate moose harvest data for Northeastern Minnesota.
